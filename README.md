@@ -1,3 +1,3 @@
-These 2 files contain SQL queries for Portfolio Projects.
-First project covers covid Deaths and covid Vaccines during the time period 2020-01 to 2021-04.
-Second Project covers information about real estate in Nashville in Tennessee. Major focus on data cleaning, replacing values, extract substrings, formatting.
+These 2 files contain SQL queries for my SQL projects.
+First project covers covid deaths and covid vaccines during the time period jan 2020 to apr 2021
+Second Project covers information about real estate in Nashville Tennessee.
