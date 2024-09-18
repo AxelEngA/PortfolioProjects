@@ -1,4 +1,10 @@
-These 2 files contain SQL queries for my SQL projects.
-First project covers covid deaths and covid vaccines during the time period jan 2020 to apr 2021
+These files are my personal projects using SQL and/or Microsoft Excel.
+
+
+First project in SQL by analyzing covid deaths and vaccines during the time period jan 2020 to 2021.
+
+
 Second Project is analysis of bike sales in Excel.
-Third project: Analysis of japanese hostels by city.
+
+
+Third project: Analysis of japanese hostels by city in Excel
